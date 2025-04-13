@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey hey - I'm just starting my coding journey!
+
+It's great to be a part of the coding community.
+
 
 <!--
 **rkp2525/rkp2525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
