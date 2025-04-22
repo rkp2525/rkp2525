@@ -1,0 +1,4 @@
+Fantasy Football Roster
+my_roster_dict = {'qb1' : 'Brock Purdy',
+'rb1' : 'Christian McCaffrey',
+'te1' : 'George Kittle'}
